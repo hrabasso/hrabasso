@@ -3,8 +3,6 @@
 🎓 Estudiant de **Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX)**  
 💡 Apassionat per la **informàtica**, especialment per la **gestió de sistemes**, la seguretat i el treball amb diferents **sistemes operatius**.
 
-![Perrito con cuernos de reno](unnamed.png)
-
 ## 🧠 Experiència
 ✨ Durant el meu aprenentatge he treballat amb diverses tecnologies i eines:
 
