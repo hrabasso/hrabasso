@@ -1,25 +1,40 @@
-# 👋 Hola! Sóc Hector  
+# 💻 Hola! Sóc **Héctor Rabasso**
 
-Sóc estudiant de **Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX)**.  
-Em apassiona el món de la informàtica, especialment la **gestió de sistemes** i el treball amb diferents sistemes operatius.  
+🎓 Estudiant de **Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX)**  
+💡 Apassionat per la **informàtica**, especialment per la **gestió de sistemes**, la seguretat i el treball amb diferents **sistemes operatius**.
 
-<img src="https://i.imgur.com/yEt6JSa.gif" width="500"/>
+![Perrito con cuernos de reno](f3c11b4e-a8f6-471b-abdf-7b663eafc418.png)
 
-## 🚀 Experiència  
-- 🐧 Ús i gestió de **Linux**, principalment Ubuntu Server i distribucions basades en Debian.  
-- 💻 Experiència amb **Windows**, tant a nivell d’usuari com d’administració bàsica.  
-- 🐍 Primeres passes amb **Python**, creant petits programes i practicant la lògica de programació.  
-- 🌐 Configuració bàsica de xarxes i màquines virtuals.  
+## 🧠 Experiència
+✨ Durant el meu aprenentatge he treballat amb diverses tecnologies i eines:
 
-## 🔧 Tecnologies i eines  
-- **Sistemes Operatius**: Linux, Windows, macOS  
-- **Llenguatges**: Python (nivell bàsic)  
-- **Altres**: Virtualització, xarxes, administració bàsica de sistemes  
+- 🐧 Ús i administració bàsica de **Linux** (Ubuntu Server, Debian, etc.)  
+- 🪟 Experiència amb **Windows**, tant d’usuari com d’administració  
+- 🐍 Introducció a **Python**, creant petits programes i practicant la lògica de programació  
+- 🌐 Configuració bàsica de **xarxes** i **màquines virtuals**
 
-## 📚 Actualment aprenent  
-- Funcions avançades de **Linux i Windows**  
-- **Fonaments de xarxes**  
-- **Gestió de sistemes operatius**  
+---
 
-## 🌱 Objectiu  
-El meu objectiu és seguir aprenent cada dia i aplicar la meva experiència en tecnologia per resoldre problemes i crear solucions innovadores.  
+## 🛠️ Tecnologies i Eines
+- **Sistemes Operatius:** Linux · Windows · macOS  
+- **Llenguatges:** Python *(nivell bàsic)*  
+- **Altres:** Virtualització · Xarxes · Administració bàsica de sistemes  
+
+---
+
+## 📘 Actualment Estic Aprenent
+- ⚙️ Funcions avançades de **Linux** i **Windows**  
+- 🌍 **Fonaments de xarxes** i protocols de comunicació  
+- 🖥️ **Gestió i manteniment de sistemes operatius**
+
+---
+
+## 🎯 Objectiu Professional
+El meu objectiu és **seguir creixent dia a dia**, millorant les meves habilitats tècniques i aplicant els meus coneixements per **resoldre problemes reals** i **crear solucions útils i eficients**.  
+
+---
+
+💬 *“L’aprenentatge constant és la clau per dominar qualsevol sistema.”*
+
+📫 **Contacte:** [alu.hector.rabasso@mataro.epiaedu.cat](mailto:alu.hector.rabasso@mataro.epiaedu.cat)
+
